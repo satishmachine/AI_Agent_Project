@@ -9,3 +9,8 @@ youtube-search-python
 youtube-search
 euriai[langchain]
 euriai[langgraph]
+wikipedia
+lxml
+langchain-tavily
+yfinance
+ddgs
